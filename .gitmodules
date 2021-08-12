@@ -1,0 +1,3 @@
+[submodule "lib/commons"]
+	path = lib/commons
+	url = https://github.com/coldrye-solutions/blender-addons-commons.git
